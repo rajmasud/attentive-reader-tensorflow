@@ -23,6 +23,12 @@ Prerequisites
 - [NLTK](http://www.nltk.org/)
 - [Gensim](https://radimrehurek.com/gensim/index.html)
 
+This software is used on those web pages:
+Research Blog: https://blog.onetopp.com
+IT Trends: https://www.onetopp.com
+Kino, Spass und Unterhaltung: https://www.buzzerstar.com
+Entertainment News: https://www.buzzerstar.net
+
 
 Usage
 -----
